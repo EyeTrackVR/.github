@@ -1,6 +1,8 @@
 <div align="center">
     <img src="./logo.png" alt="EyeTrackVR Logo">
-    <p><strong>Open and Affordable, Virtual Reality Eye Tracking Platform.</strong></p>
+    <header> 
+        <h2><strong>Open and Affordable, Virtual Reality Eye Tracking Platform.</strong></h2>
+    </header>
     <div>
         <a href="https://discord.gg/AEUN9eDySa">
             <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
