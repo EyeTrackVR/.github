@@ -13,10 +13,10 @@
         <a href="https://docs.eyetrackvr.dev/">
             <img src="https://img.shields.io/badge/Documentation-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white">
         </a>
-        <a href="mailto:inquiries@fovea-labs.com">
+        <a href="https://store.eyetrackvr.dev/">
             <img src="https://img.shields.io/badge/Store-8B5CF6?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white">
         </a>
-        <a href="https://store.eyetrackvr.dev/">
+        <a href="mailto:inquiries@fovea-labs.com">
             <img src="https://img.shields.io/badge/Contact-5865F2?style=for-the-badge&logo=protonmail&logoColor=white">
         </a>
     </div>
